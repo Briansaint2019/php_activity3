@@ -1,0 +1,18 @@
+div{
+    display: inline;
+}
+.profile {
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.mash{
+    align-self: right;
+}
+.infopiece{
+    font-weight: bold;
+    left: 1%;
+    position: relative;
+    display: block;
+    vertical-align: text-top;
+}
